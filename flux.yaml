@@ -112,6 +112,8 @@ items:
           - --ssh-keygen-dir=/var/fluxd/keygen
           - --git-url=https://github.com/Atcharaporn25/minifk.git
           - --git-branch=master
+          - --git-url=https://github.com/chanwit/minifk
+          - --git-branch=v1.15.9
           - --git-poll-interval=30s
           - --git-path=.
           - --git-readonly
